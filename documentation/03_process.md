@@ -4,7 +4,7 @@
 
 ### 1. Tools Selection
 
-Google BigQuery were selected to process the Cyclistic 2025 trip data. BigQuery was used to handle the large dataset efficiently, while SQL supported data consolidation, quality assessment, cleaning, transformation, and validation.
+Google BigQuery and SQL were selected to process the Cyclistic 2025 trip data. BigQuery was used to handle the large dataset efficiently, while SQL supported data consolidation, quality assessment, cleaning, transformation, and validation.
 
 ### 2. Data Quality Assessment
 
