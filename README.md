@@ -31,7 +31,7 @@ The broader marketing program also asks why casual riders would purchase annual 
 
 ## 📊 Dashboard
 
-**[View the interactive Ridership Analytics Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard)**
+**[View the interactive Ridership Analytics Dashboard on Tableau Public](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard)**
 
 - **KPIs:** Total Rides, Member Avg Ride, Casual Avg Ride, Peak Day, and Peak Hour.
 - **Charts:** Membership distribution, rides by day of week, monthly and hourly trends, and bike type distribution.
