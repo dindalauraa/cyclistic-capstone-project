@@ -2,7 +2,7 @@
 
 **Google Data Analytics Professional Certificate | Capstone Project**
 
-[![Ridership Analytics Dashboard](documentation/logs/screenshots/31_tableau_dashboard_final.png)](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard)
+[![Ridership Analytics Dashboard](documentation/images/01_dashboard_overview.png)](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard)
 
 ## 📌 Project Overview
 
