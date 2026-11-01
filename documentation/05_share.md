@@ -214,7 +214,7 @@ These findings address the primary research question for the 2025 data period. T
 
 | Deliverable | Location |
 |---|---|
-| Published dashboard | [Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard) |
+| Published dashboard | [Ridership Analytics Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard) |
 | Dashboard dataset | `cyclistic_2025.dashboard_2025` |
 | Final dashboard screenshot | `logs/screenshots/31_tableau_dashboard_final.png` |
 | Chart images | `documentation/images/` |
