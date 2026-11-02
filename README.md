@@ -2,7 +2,11 @@
 
 **Google Data Analytics Professional Certificate | Capstone Project**
 
-[![Ridership Analytics Dashboard](documentation/images/01_dashboard_overview.png)](https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard)
+<p align="center">
+  <a href="https://public.tableau.com/views/CyclisticBike-ShareAnalysisDashboard_17934258541930/CyclisticBike-ShareAnalysisDashboard">
+    <img src="documentation/images/01_dashboard_overview.png" width="800" alt="Ridership Analytics Dashboard">
+  </a>
+</p>
 
 ## 📌 Project Overview
 
@@ -88,4 +92,4 @@ The validation record is available in [`logs/validation_logs.md`](logs/validatio
 
 ## 👩‍💻 Author
 
-**Dinda Laura** · [LinkedIn](https://www.linkedin.com/in/dindalaura) · [GitHub](https://github.com/dindalauraa)
+**Dinda Laura Putri Permadi** · [LinkedIn](https://www.linkedin.com/in/dindalaura) · [GitHub](https://github.com/dindalauraa)
